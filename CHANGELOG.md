@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/thunderBestPower/notification/compare/v1.0.0...v1.1.0) (2020-09-15)
+
+
+### Features
+
+* **release:** Aggiunto metodo running ([5d5fb70](https://github.com/thunderBestPower/notification/commit/5d5fb7047ab6fa859f3121a8e89e179d01b975ec))
+* aumentato dimensione del campo subTitle ([d5f5037](https://github.com/thunderBestPower/notification/commit/d5f503728dbf14d0c98bca74573c2cf663cc3473))
+
 ## 1.0.0 (2020-03-02)
 
 
